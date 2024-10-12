@@ -1,5 +1,6 @@
 # Smart Traffic Simulation
 
+
 **Smart Traffic Simulation** is a C++ project that simulates vehicle movements and traffic light behavior using an Entity-Component-System (ECS) architecture. This simulation allows multiple vehicles to move through predefined routes while following traffic light signals, with systems handling both movement and traffic control.
 
 ## Features
