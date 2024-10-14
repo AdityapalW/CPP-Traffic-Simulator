@@ -10,7 +10,6 @@
 - **Dynamic Component Management**: Components are dynamically assigned to entities, allowing for flexible simulation scenarios.
 
 ## Project Structure
-
 ```bash
 /SmartTrafficSimulation
     /src
